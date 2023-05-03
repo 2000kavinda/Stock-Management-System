@@ -89,5 +89,26 @@ namespace Stock_Managemet_System
             stock2.Show();
             this.Hide();
         }
+
+        private void gunaButton6_Click(object sender, EventArgs e)
+        {
+            stock2 stock2 = new stock2();
+            stock2.Show();
+            this.Hide();
+        }
+
+        private void gunaButton7_Click(object sender, EventArgs e)
+        {
+            customer customer = new customer();
+            customer.Show();
+            this.Hide();
+        }
+
+        private void gunaButton8_Click(object sender, EventArgs e)
+        {
+            supplier supplier = new supplier(); 
+            supplier.Show();
+            this.Hide();
+        }
     }
 }
