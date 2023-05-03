@@ -80,5 +80,12 @@ namespace Stock_Managemet_System
             con.Close();
             refresh();
         }
+
+        private void gunaButton9_Click(object sender, EventArgs e)
+        {
+            category category = new category();
+            category.Show();
+            this.Hide();
+        }
     }
 }

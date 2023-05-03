@@ -17,3 +17,4 @@ C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-Syst
 C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.customer2.resources
 C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.supplier.resources
 C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.supplier2.resources
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.category.resources

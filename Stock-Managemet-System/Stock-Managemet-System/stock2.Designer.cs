@@ -40,6 +40,7 @@
             this.gunaButton6 = new Guna.UI.WinForms.GunaButton();
             this.gunaButton7 = new Guna.UI.WinForms.GunaButton();
             this.gunaButton1 = new Guna.UI.WinForms.GunaButton();
+            this.gunaButton9 = new Guna.UI.WinForms.GunaButton();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -243,11 +244,36 @@
             this.gunaButton1.Text = "Supplier";
             this.gunaButton1.Click += new System.EventHandler(this.gunaButton1_Click);
             // 
+            // gunaButton9
+            // 
+            this.gunaButton9.AnimationHoverSpeed = 0.07F;
+            this.gunaButton9.AnimationSpeed = 0.03F;
+            this.gunaButton9.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            this.gunaButton9.BorderColor = System.Drawing.Color.Black;
+            this.gunaButton9.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaButton9.FocusedColor = System.Drawing.Color.Empty;
+            this.gunaButton9.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.gunaButton9.ForeColor = System.Drawing.Color.White;
+            this.gunaButton9.Image = ((System.Drawing.Image)(resources.GetObject("gunaButton9.Image")));
+            this.gunaButton9.ImageSize = new System.Drawing.Size(20, 20);
+            this.gunaButton9.Location = new System.Drawing.Point(31, 414);
+            this.gunaButton9.Name = "gunaButton9";
+            this.gunaButton9.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
+            this.gunaButton9.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.gunaButton9.OnHoverForeColor = System.Drawing.Color.White;
+            this.gunaButton9.OnHoverImage = null;
+            this.gunaButton9.OnPressedColor = System.Drawing.Color.Black;
+            this.gunaButton9.Size = new System.Drawing.Size(160, 42);
+            this.gunaButton9.TabIndex = 91;
+            this.gunaButton9.Text = "Category";
+            this.gunaButton9.Click += new System.EventHandler(this.gunaButton9_Click);
+            // 
             // stock2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1105, 626);
+            this.Controls.Add(this.gunaButton9);
             this.Controls.Add(this.gunaButton1);
             this.Controls.Add(this.gunaButton7);
             this.Controls.Add(this.gunaButton2);
@@ -281,5 +307,6 @@
         private Guna.UI.WinForms.GunaButton gunaButton6;
         private Guna.UI.WinForms.GunaButton gunaButton7;
         private Guna.UI.WinForms.GunaButton gunaButton1;
+        private Guna.UI.WinForms.GunaButton gunaButton9;
     }
 }

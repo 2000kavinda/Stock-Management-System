@@ -63,7 +63,9 @@ namespace Stock_Managemet_System
 
         private void gunaButton7_Click(object sender, EventArgs e)
         {
-
+            customer cus = new customer();
+            cus.Show();
+            this.Hide();
         }
 
         private void gunaButton2_Click(object sender, EventArgs e)
@@ -104,6 +106,13 @@ namespace Stock_Managemet_System
         {
             supplier supplier = new supplier();
             supplier.Show();
+            this.Hide();
+        }
+
+        private void gunaButton9_Click(object sender, EventArgs e)
+        {
+            category category = new category();
+            category.Show();
             this.Hide();
         }
     }
