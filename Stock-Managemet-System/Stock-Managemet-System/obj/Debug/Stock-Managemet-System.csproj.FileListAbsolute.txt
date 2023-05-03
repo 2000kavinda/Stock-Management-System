@@ -1,0 +1,15 @@
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\bin\Debug\Stock-Managemet-System.exe.config
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\bin\Debug\Stock-Managemet-System.exe
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\bin\Debug\Stock-Managemet-System.pdb
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.csproj.AssemblyReference.cache
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.Properties.Resources.resources
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.csproj.GenerateResource.cache
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.csproj.CoreCompileInputs.cache
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.exe
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.pdb
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\bin\Debug\Guna.UI.dll
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.csproj.CopyComplete
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.Login.resources
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.Stocks.resources
+C:\Users\Kavinda Udara\source\repos\Stock-Management-System\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.stock2.resources
