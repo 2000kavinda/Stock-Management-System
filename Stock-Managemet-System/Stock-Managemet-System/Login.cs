@@ -16,5 +16,12 @@ namespace Stock_Managemet_System
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Stocks stocks = new Stocks();
+            stocks.Show();
+            this.Hide();
+        }
     }
 }
