@@ -56,9 +56,7 @@ namespace Stock_Managemet_System
 
         private void gunaButton6_Click(object sender, EventArgs e)
         {
-            customer2 cus = new customer2();
-            cus.Show();
-            this.Hide();
+            
         }
 
         private void gunaButton7_Click(object sender, EventArgs e)
@@ -114,6 +112,16 @@ namespace Stock_Managemet_System
             category category = new category();
             category.Show();
             this.Hide();
+        }
+
+        private void gunaButton6_Click_1(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void gunaButton12_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

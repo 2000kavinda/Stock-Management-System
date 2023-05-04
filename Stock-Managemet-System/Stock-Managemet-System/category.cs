@@ -95,5 +95,15 @@ namespace Stock_Managemet_System
             cus.Show();
             this.Hide();
         }
+
+        private void gunaButton11_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void gunaButton10_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

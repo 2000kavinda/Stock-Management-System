@@ -97,5 +97,20 @@ namespace Stock_Managemet_System
             category.Show();
             this.Hide();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void gunaButton11_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void gunaButton10_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

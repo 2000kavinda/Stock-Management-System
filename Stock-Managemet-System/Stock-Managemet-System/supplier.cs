@@ -70,9 +70,7 @@ namespace Stock_Managemet_System
 
         private void gunaButton6_Click(object sender, EventArgs e)
         {
-            supplier2 supplier = new supplier2();
-            supplier.Show();
-            this.Hide();
+            
         }
 
         private void gunaButton3_Click(object sender, EventArgs e)
@@ -101,6 +99,26 @@ namespace Stock_Managemet_System
             category category = new category();
             category.Show();
             this.Hide();
+        }
+
+        private void gunaButton4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gunaLabel8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gunaButton6_Click_1(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void gunaButton12_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
