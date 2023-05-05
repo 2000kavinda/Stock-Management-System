@@ -19,9 +19,26 @@ namespace Stock_Managemet_System
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Stocks stocks = new Stocks();
-            stocks.Show();
-            this.Hide();
+            if (textBox1.Text == "admin" && textBox2.Text=="adm") 
+            {
+                Stocks stocks = new Stocks();
+                stocks.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("error");
+            }
+        }
+
+        private void gunaButton12_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void gunaButton4_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
         }
     }
 }

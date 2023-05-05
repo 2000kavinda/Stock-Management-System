@@ -82,6 +82,7 @@
             this.gunaButton8.Size = new System.Drawing.Size(160, 42);
             this.gunaButton8.TabIndex = 99;
             this.gunaButton8.Text = "Logout";
+            this.gunaButton8.Click += new System.EventHandler(this.gunaButton8_Click);
             // 
             // gunaButton4
             // 
@@ -105,6 +106,7 @@
             this.gunaButton4.Size = new System.Drawing.Size(160, 42);
             this.gunaButton4.TabIndex = 98;
             this.gunaButton4.Text = "Orders";
+            this.gunaButton4.Click += new System.EventHandler(this.gunaButton4_Click);
             // 
             // gunaButton9
             // 
@@ -128,6 +130,7 @@
             this.gunaButton9.Size = new System.Drawing.Size(160, 42);
             this.gunaButton9.TabIndex = 97;
             this.gunaButton9.Text = "Category";
+            this.gunaButton9.Click += new System.EventHandler(this.gunaButton9_Click);
             // 
             // gunaButton1
             // 
@@ -151,6 +154,7 @@
             this.gunaButton1.Size = new System.Drawing.Size(160, 42);
             this.gunaButton1.TabIndex = 96;
             this.gunaButton1.Text = "Supplier";
+            this.gunaButton1.Click += new System.EventHandler(this.gunaButton1_Click);
             // 
             // gunaButton7
             // 
@@ -174,6 +178,7 @@
             this.gunaButton7.Size = new System.Drawing.Size(160, 42);
             this.gunaButton7.TabIndex = 95;
             this.gunaButton7.Text = "Customer";
+            this.gunaButton7.Click += new System.EventHandler(this.gunaButton7_Click);
             // 
             // gunaButton5
             // 
@@ -197,6 +202,7 @@
             this.gunaButton5.Size = new System.Drawing.Size(160, 42);
             this.gunaButton5.TabIndex = 94;
             this.gunaButton5.Text = "Stock";
+            this.gunaButton5.Click += new System.EventHandler(this.gunaButton5_Click);
             // 
             // gunaButton2
             // 

@@ -112,5 +112,19 @@ namespace Stock_Managemet_System
         {
             Application.Exit();
         }
+
+        private void gunaButton8_Click(object sender, EventArgs e)
+        {
+            order order = new order();
+            order.Show();
+            this.Hide();
+        }
+
+        private void gunaButton4_Click_1(object sender, EventArgs e)
+        {
+            Login login = new Login();
+            login.Show();
+            this.Hide();
+        }
     }
 }

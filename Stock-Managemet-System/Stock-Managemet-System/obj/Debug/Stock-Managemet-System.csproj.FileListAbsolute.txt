@@ -58,3 +58,4 @@ C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managem
 C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.exe
 C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.pdb
 C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.order.resources
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.landing.resources
