@@ -38,3 +38,23 @@ C:\ERP SYSTEM\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Mana
 C:\ERP SYSTEM\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.csproj.CopyComplete
 C:\ERP SYSTEM\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.exe
 C:\ERP SYSTEM\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.pdb
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\bin\Debug\Stock-Managemet-System.exe.config
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\bin\Debug\Stock-Managemet-System.exe
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\bin\Debug\Stock-Managemet-System.pdb
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.csproj.AssemblyReference.cache
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.category.resources
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.customer.resources
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.customer2.resources
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.Login.resources
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.Properties.Resources.resources
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.stock2.resources
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.Stocks.resources
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.supplier.resources
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.supplier2.resources
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.csproj.GenerateResource.cache
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.csproj.CoreCompileInputs.cache
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.csproj.CopyComplete
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.exe
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock-Managemet-System.pdb
+C:\Users\Kavinda Udara\Downloads\New folder\Stock-Managemet-System\Stock-Managemet-System\obj\Debug\Stock_Managemet_System.order.resources
