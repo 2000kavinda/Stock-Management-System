@@ -73,6 +73,16 @@ namespace Stock_Managemet_System.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ddfs {
+            get {
+                object obj = ResourceManager.GetObject("ddfs", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Frame_1_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("Frame_1-removebg-preview", resourceCulture);
